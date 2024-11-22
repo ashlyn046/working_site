@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 7
+  limit: 6
   exclude:
     archived: false
     forks: true
@@ -29,10 +29,7 @@ projects:
     - RA_MLE 
     - CS240_SpellCorrector
 
-social_media:
-  linkedin: ashlyn-dunn
-  email: ashlyn04nicole@gmail.com
-  # _data/social_media.yml
+social_media: _data/social_media.yml
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
