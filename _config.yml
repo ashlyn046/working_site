@@ -25,7 +25,9 @@ projects:
   exclude:
     archived: false
     forks: true
-    projects:
+    projects: 
+    - RA_MLE 
+    - CS240_SpellCorrector
     # - repo-name
 
 # social_media:
