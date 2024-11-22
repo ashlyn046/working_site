@@ -32,6 +32,7 @@ projects:
 social_media:
   linkedin: ashlyn-dunn
   email: ashlyn04nicole@gmail.com
+  # _data/social_media.yml
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
