@@ -21,15 +21,32 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 6
+  limit: 9
   exclude:
     archived: false
     forks: true
     projects: 
     - RA_MLE 
     - CS240_SpellCorrector
+    # - repo-name
 
-social_media: _data/social_media.yml
+social_media:
+  linkedin:
+    profile_url: https://www.linkedin.com/in/ashlyn-dunn/
+    name: LinkedIn
+  email:
+    profile_url: ashlyn04nicole@gmail.com
+    name: Email
+
+# social_media:
+#   linkedin: 
+  # behance: your_username
+  # dribbble: your_username
+  # facebook: your_username
+  # hackerrank: your_username
+  # instagram: your_username
+  # keybase: your_username
+  # linkedin: your_username
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
